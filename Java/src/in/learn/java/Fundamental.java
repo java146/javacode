@@ -7,6 +7,9 @@ public class Fundamental {
 		System.out.println("Good fine!");
 		System.out.println("Good!");
 		System.out.println("What about you?");
+		System.out.println("Good! Thanks");
+		System.out.println("Now, What is next plan?");
+		System.out.println("Let's see what happend!");
 	}
 
 }
